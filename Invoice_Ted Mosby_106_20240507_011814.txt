@@ -1,0 +1,9 @@
+Invoice Details:
+Person Name: Ted Mosby
+Kitta Number: 106
+Location: Dharan
+Direction: West
+Anna Details: 10
+Price per Month: 900000
+Transaction Date: 2024-05-07 01:18:14.941373
+Total Amount: 7200000

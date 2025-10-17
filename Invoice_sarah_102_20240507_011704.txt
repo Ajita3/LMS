@@ -1,0 +1,9 @@
+Invoice Details:
+Person Name: sarah
+Kitta Number: 102
+Location:  Pokhara
+Direction:  East
+Anna Details:  5
+Price per Month:  60000
+Transaction Date: 2024-05-07 01:17:04.451732
+Total Amount: 240000

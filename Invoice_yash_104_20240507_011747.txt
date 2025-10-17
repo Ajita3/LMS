@@ -1,0 +1,9 @@
+Invoice Details:
+Person Name: yash
+Kitta Number: 104
+Location: Biratnagar
+Direction: East
+Anna Details: 8
+Price per Month: 900000
+Transaction Date: 2024-05-07 01:17:47.523270
+Total Amount: 5400000
